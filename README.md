@@ -10,5 +10,49 @@ The project demonstrates advanced SQL analytics, KPI reporting, customer segment
 -	SQL 
 -	VS Code 
 -	Power BI 
--	Python 
--	Git & GitHub
+-	GitHub
+
+## Dataset
+The **Olist Brazilian E-Commerce Dataset** was used.
+
+The dataset includes:
+
+-	Customers 
+-	Orders 
+-	Products 
+-	Payments 
+-	Reviews 
+-	Sellers 
+-	Geolocation data
+
+Due to GitHub file size limitations, raw datasets are not included in this repository.
+
+**Dataset Source:**
+https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce
+
+## SQL Concepts Used
+-	JOINs 
+-	GROUP BY 
+-	Aggregations 
+-	Window Functions 
+-	CTEs 
+-	Views 
+-	Ranking Functions 
+-	RFM Analysis 
+-	Customer Retention Analysis
+
+## Business KPIs Analyzed
+-	Monthly Revenue 
+-	Top Customers 
+-	Product Category Performance 
+-	State-wise Revenue 
+-	Customer Retention 
+-	Revenue Trends 
+-	Customer Segmentation
+
+## Dashboard Highlights
+-	Executive & Time-Series Revenue Dashboard 
+-	Customer Analytics Dashboard 
+-	Product Analytics Dashboard 
+-	Regional Sales Dashboard 
+
